@@ -1,7 +1,7 @@
 # Generate self signed certificate
 * subject alternative name (SAN) is `localhost`
 
-# Requirement
+## Requirement
 * Bash
   * Git Bash is ok in Windows, and OpenSSL is there.
 
